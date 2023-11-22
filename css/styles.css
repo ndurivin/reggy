@@ -1,0 +1,9 @@
+body,
+html {
+  width: auto !important;
+  overflow-x: hidden !important;
+}
+
+p {
+  font-size: 18px;
+}
